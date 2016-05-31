@@ -81,6 +81,7 @@
     <Compile Include="ch_03\ch_03_08.cs" />
     <Compile Include="ch_03\ch_03_09.cs" />
     <Compile Include="ch_03\ch_03_10.cs" />
+    <Compile Include="ch_05\ch_05_01.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

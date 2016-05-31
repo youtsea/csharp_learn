@@ -13,7 +13,6 @@ namespace cook_book
     {
         static void Main(string[] args)
         {
-            ch_03_10.Test();
         }
     }
 }
