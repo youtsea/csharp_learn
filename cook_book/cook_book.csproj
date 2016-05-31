@@ -59,6 +59,18 @@
     <Compile Include="ch_01\ch_01_15.cs" />
     <Compile Include="ch_01\ch_01_16.cs" />
     <Compile Include="ch_01\ch_01_17.cs" />
+    <Compile Include="ch_01\ch_01_18.cs" />
+    <Compile Include="ch_01\ch_01_19.cs" />
+    <Compile Include="ch_02\ch_02_01.cs" />
+    <Compile Include="ch_02\ch_02_02.cs" />
+    <Compile Include="ch_02\ch_02_03.cs" />
+    <Compile Include="ch_02\ch_02_04.cs" />
+    <Compile Include="ch_02\ch_02_05.cs" />
+    <Compile Include="ch_02\ch_02_06.cs" />
+    <Compile Include="ch_02\ch_02_07.cs" />
+    <Compile Include="ch_02\ch_02_08.cs" />
+    <Compile Include="ch_02\ch_02_09.cs" />
+    <Compile Include="ch_02\ch_02_10.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

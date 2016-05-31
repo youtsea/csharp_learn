@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using cook_book.ch_01;
+using cook_book.ch_02;
 
 namespace cook_book
 {
@@ -11,7 +12,7 @@ namespace cook_book
     {
         static void Main(string[] args)
         {
-            ch_01_17.Test();
+            ch_02_10.Test();
         }
     }
 }
