@@ -11,7 +11,7 @@ namespace cook_book
     {
         static void Main(string[] args)
         {
-            Foo foo = new Foo(3);
+            ch_01_17.Test();
         }
     }
 }
